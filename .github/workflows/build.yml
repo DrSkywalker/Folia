@@ -1,4 +1,4 @@
-name: Patch and Build
+name: Push, Pull
 
 on:
   push:
